@@ -1,0 +1,30 @@
+.center {
+    text-align: center;
+    background-color: #455A64;
+    
+    font-family: 'Roboto', sans-serif;
+}
+.title{
+    color:#818F95;
+    font-size: 52px;
+    text-transform: uppercase
+}
+.input,.result-container {
+    padding: 10px;
+    width: 100%;
+    text-align:center;
+    font-size:48px;
+    padding:2px;
+    border:solid 1px;
+    color: #455A64;
+    background-color:#818F95 
+}
+.result-container{
+    width:50%;
+    margin:50px auto 0;
+}
+.result-container .title{
+    font-size: 18px;
+    color:#000;
+    text-align:center
+}
